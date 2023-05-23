@@ -4,7 +4,7 @@
 
 
 ```
-TALLER CLOUD - TRENTIA 
+SPRING KUBERNETES - TRENTIA 
 Profesor: David Pestana
 Horas: 8
 ```
